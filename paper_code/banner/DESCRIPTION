@@ -1,0 +1,19 @@
+Package: banner
+Title: BAyesiaN NEtwork Regularization
+Version: 0.1
+Authors@R: 
+    c(person(given = "Elizabeth",
+          family = "Upton",
+          role = c("aut", "cre"),
+          email = "emu1@williams.edu"),
+      person(given = "Luis",
+          family = "Carvalho",
+          role = c("aut"),
+          email = "lecarval@math.bu.edu"))
+Description: Bayesian network regularization provides a regression framework with Laplacian-regularized priors.
+Imports: bsglm
+License: `use_gpl_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
